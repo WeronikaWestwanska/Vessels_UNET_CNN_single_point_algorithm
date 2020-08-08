@@ -1,0 +1,15 @@
+# top-most EditorConfig file
+root = true
+
+[*]
+trim_trailing_whitespace = true
+indent_style = space
+
+[*.cs]
+indent_size = 4
+
+[*.xaml]
+indent_size = 4
+
+[*.py]
+indent_size = 4
